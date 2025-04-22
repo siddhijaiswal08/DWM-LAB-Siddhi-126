@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1636066e-e7c5-4a22-b9cc-836bc745495f)# DWM-LAB-Siddhi-126
+# DWM-LAB-Siddhi-126
 ### 📊 Data Warehouse & Data Mining Practical Lab
 #### 📚 Overview
 This repository contains the practical exercises I’ve worked on as part of my Data Warehouse & Data Mining (DWDM) lab for college. It covers essential concepts like data preprocessing, OLAP operations, ETL transformations, and popular data mining algorithms.
@@ -10,7 +10,8 @@ Sr.No.| Title <br>
 07    | Implement Apriori Algorithm to find frequent itemsets from a dataset <br>
 08    | Implement Naïve Bayes Algorithm <br>
 09    | Implement K-Nearest Neighbors (KNN) Algorithm <br> 
-10    | To Implement K-means clustering data mining algorithm  <br>  
+10    | To Implement K-means clustering data mining algorithm <br>  
+
 11    | To Implement decision tree for a data set <br>
 12    | To Implement Linear Regression <br>
 
