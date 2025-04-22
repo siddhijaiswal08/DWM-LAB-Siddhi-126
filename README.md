@@ -10,8 +10,7 @@ Sr.No.| Title <br>
 07    | Implement Apriori Algorithm to find frequent itemsets from a dataset <br>
 08    | Implement Naïve Bayes Algorithm <br>
 09    | Implement K-Nearest Neighbors (KNN) Algorithm <br> 
-10    | To Implement K-means clustering data mining algorithm <br>  
-
+10    | To Implement K-means clustering data mining algorithm <br> 
 11    | To Implement decision tree for a data set <br>
 12    | To Implement Linear Regression <br>
 
